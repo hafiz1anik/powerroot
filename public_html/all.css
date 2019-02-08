@@ -1,0 +1,60 @@
+body {
+  background-color: #eee;
+}
+.navbar-fixed {
+  position: absolute;
+  z-index: 999999999;
+}
+
+.nav-wrapper a {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 20px;
+}
+
+.slider .btn {
+  margin-top: 20px;
+}
+
+.slides h1,
+h3 {
+  font-style: italic;
+}
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+#side h4 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.card span {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#items {
+  background-color: #eee;
+}
+#reviewmain img {
+  height: 400px;
+  background-size: cover;
+  width: 100%;
+}
+#back {
+  background-color: teal;
+  background-size: cover;
+  height: 600px;
+}
+
+#lower {
+  width: 100%;
+  background-size: cover;
+}
+.section-follow .fa-4x {
+  margin: 200px 0 0 0;
+}
+
+.slider .slides li img {
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
